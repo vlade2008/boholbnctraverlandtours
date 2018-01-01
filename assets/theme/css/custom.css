@@ -1,0 +1,15 @@
+@media (max-width: 767px) {
+  
+
+  .align-left, .align-center, .align-right, .mbr-section-btn, .mbr-section-title {
+    text-align: center; }
+
+  .mbr-section {
+    position: relative;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover; }  
+
+     }
